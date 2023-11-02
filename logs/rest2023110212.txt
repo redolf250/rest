@@ -1,0 +1,239 @@
+2023-11-02 12:19:23.676 +00:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2023-11-02 12:19:23.746 +00:00 [DBG] Hosting starting
+2023-11-02 12:19:23.791 +00:00 [INF] Now listening on: http://localhost:5162
+2023-11-02 12:19:23.791 +00:00 [DBG] Loaded hosting startup assembly rest
+2023-11-02 12:19:23.792 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-02 12:19:23.792 +00:00 [INF] Hosting environment: Development
+2023-11-02 12:19:23.792 +00:00 [INF] Content root path: D:\CSharp\Projects\RestAPI\rest
+2023-11-02 12:19:23.792 +00:00 [DBG] Hosting started
+2023-11-02 12:19:24.253 +00:00 [DBG] Connection id "0HMURJNPLUTTF" received FIN.
+2023-11-02 12:19:24.259 +00:00 [DBG] Connection id "0HMURJNPLUTTF" accepted.
+2023-11-02 12:19:24.260 +00:00 [DBG] Connection id "0HMURJNPLUTTF" started.
+2023-11-02 12:19:24.270 +00:00 [DBG] Connection id "0HMURJNPLUTTF" sending FIN because: "The client closed the connection."
+2023-11-02 12:19:24.272 +00:00 [DBG] Connection id "0HMURJNPLUTTF" disconnecting.
+2023-11-02 12:19:24.277 +00:00 [DBG] Connection id "0HMURJNPLUTTF" stopped.
+2023-11-02 12:19:24.383 +00:00 [DBG] Connection id "0HMURJNPLUTTG" accepted.
+2023-11-02 12:19:24.383 +00:00 [DBG] Connection id "0HMURJNPLUTTG" started.
+2023-11-02 12:19:24.384 +00:00 [DBG] Connection id "0HMURJNPLUTTH" accepted.
+2023-11-02 12:19:24.384 +00:00 [DBG] Connection id "0HMURJNPLUTTH" started.
+2023-11-02 12:19:24.460 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5162/swagger/index.html - -
+2023-11-02 12:19:24.464 +00:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2023-11-02 12:19:24.494 +00:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2023-11-02 12:19:24.494 +00:00 [DBG] Request did not match any endpoints
+2023-11-02 12:19:24.630 +00:00 [DBG] Connection id "0HMURJNPLUTTG" completed keep alive response.
+2023-11-02 12:19:24.633 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5162/swagger/index.html - - - 200 - text/html;charset=utf-8 183.4197ms
+2023-11-02 12:19:24.749 +00:00 [DBG] Connection id "0HMURJNPLUTTI" accepted.
+2023-11-02 12:19:24.749 +00:00 [DBG] Connection id "0HMURJNPLUTTI" started.
+2023-11-02 12:19:24.749 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5162/swagger/index.html - -
+2023-11-02 12:19:24.750 +00:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2023-11-02 12:19:24.750 +00:00 [DBG] Request did not match any endpoints
+2023-11-02 12:19:24.753 +00:00 [DBG] Connection id "0HMURJNPLUTTI" completed keep alive response.
+2023-11-02 12:19:24.753 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5162/swagger/index.html - - - 200 - text/html;charset=utf-8 4.0952ms
+2023-11-02 12:19:24.836 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5162/swagger/v1/swagger.json - -
+2023-11-02 12:19:24.837 +00:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2023-11-02 12:19:24.837 +00:00 [DBG] Request did not match any endpoints
+2023-11-02 12:19:24.984 +00:00 [DBG] Connection id "0HMURJNPLUTTG" completed keep alive response.
+2023-11-02 12:19:24.984 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5162/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 147.3476ms
+2023-11-02 12:19:34.307 +00:00 [DBG] Connection id "0HMURJNPLUTTI" received FIN.
+2023-11-02 12:19:34.307 +00:00 [DBG] Connection id "0HMURJNPLUTTH" received FIN.
+2023-11-02 12:19:34.307 +00:00 [DBG] Connection id "0HMURJNPLUTTG" received FIN.
+2023-11-02 12:19:34.307 +00:00 [DBG] Connection id "0HMURJNPLUTTI" sending FIN because: "The client closed the connection."
+2023-11-02 12:19:34.307 +00:00 [DBG] Connection id "0HMURJNPLUTTI" disconnecting.
+2023-11-02 12:19:34.308 +00:00 [DBG] Connection id "0HMURJNPLUTTH" sending FIN because: "The client closed the connection."
+2023-11-02 12:19:34.308 +00:00 [DBG] Connection id "0HMURJNPLUTTH" disconnecting.
+2023-11-02 12:19:34.308 +00:00 [DBG] Connection id "0HMURJNPLUTTG" sending FIN because: "The client closed the connection."
+2023-11-02 12:19:34.308 +00:00 [DBG] Connection id "0HMURJNPLUTTG" disconnecting.
+2023-11-02 12:19:34.312 +00:00 [DBG] Connection id "0HMURJNPLUTTI" stopped.
+2023-11-02 12:19:34.312 +00:00 [DBG] Connection id "0HMURJNPLUTTH" stopped.
+2023-11-02 12:19:34.312 +00:00 [DBG] Connection id "0HMURJNPLUTTG" stopped.
+2023-11-02 12:19:48.352 +00:00 [DBG] Connection id "0HMURJNPLUTTJ" accepted.
+2023-11-02 12:19:48.353 +00:00 [DBG] Connection id "0HMURJNPLUTTJ" started.
+2023-11-02 12:19:48.353 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5162/list - -
+2023-11-02 12:19:48.358 +00:00 [DBG] 1 candidate(s) found for the request path '/list'
+2023-11-02 12:19:48.364 +00:00 [DBG] Endpoint 'rest.Controllers.HomeController.GetListOfPersons (rest)' with route pattern 'list' is valid for the request path '/list'
+2023-11-02 12:19:48.364 +00:00 [DBG] Request matched endpoint 'rest.Controllers.HomeController.GetListOfPersons (rest)'
+2023-11-02 12:19:48.365 +00:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2023-11-02 12:19:48.367 +00:00 [WRN] Failed to determine the https port for redirect.
+2023-11-02 12:19:48.369 +00:00 [INF] Executing endpoint 'rest.Controllers.HomeController.GetListOfPersons (rest)'
+2023-11-02 12:19:48.385 +00:00 [INF] Route matched with {action = "GetListOfPersons", controller = "Home"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[rest.Models.Person]]] GetListOfPersons() on controller rest.Controllers.HomeController (rest).
+2023-11-02 12:19:48.386 +00:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2023-11-02 12:19:48.386 +00:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2023-11-02 12:19:48.386 +00:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2023-11-02 12:19:48.386 +00:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2023-11-02 12:19:48.386 +00:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2023-11-02 12:19:48.388 +00:00 [DBG] Executing controller factory for controller rest.Controllers.HomeController (rest)
+2023-11-02 12:19:48.388 +00:00 [DBG] Executed controller factory for controller rest.Controllers.HomeController (rest)
+2023-11-02 12:19:48.390 +00:00 [INF] Getting list of persons!
+2023-11-02 12:19:48.394 +00:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2023-11-02 12:19:48.396 +00:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2023-11-02 12:19:48.396 +00:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2023-11-02 12:19:48.397 +00:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2023-11-02 12:19:48.397 +00:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2023-11-02 12:19:48.397 +00:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2023-11-02 12:19:48.397 +00:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[rest.Models.Person, rest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2023-11-02 12:19:48.409 +00:00 [INF] Executed action rest.Controllers.HomeController.GetListOfPersons (rest) in 16.963ms
+2023-11-02 12:19:48.410 +00:00 [INF] Executed endpoint 'rest.Controllers.HomeController.GetListOfPersons (rest)'
+2023-11-02 12:19:48.410 +00:00 [DBG] Connection id "0HMURJNPLUTTJ" completed keep alive response.
+2023-11-02 12:19:48.410 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5162/list - - - 200 - application/json;+charset=utf-8 57.0540ms
+2023-11-02 12:20:25.328 +00:00 [DBG] Connection id "0HMURJNPLUTTJ" received FIN.
+2023-11-02 12:20:25.329 +00:00 [DBG] Connection id "0HMURJNPLUTTJ" sending FIN because: "The client closed the connection."
+2023-11-02 12:20:25.329 +00:00 [DBG] Connection id "0HMURJNPLUTTJ" disconnecting.
+2023-11-02 12:20:25.343 +00:00 [DBG] Connection id "0HMURJNPLUTTJ" stopped.
+2023-11-02 12:22:04.895 +00:00 [DBG] Connection id "0HMURJNPLUTTK" accepted.
+2023-11-02 12:22:04.895 +00:00 [DBG] Connection id "0HMURJNPLUTTK" started.
+2023-11-02 12:22:04.896 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5162/person/2 - -
+2023-11-02 12:22:04.896 +00:00 [DBG] 1 candidate(s) found for the request path '/person/2'
+2023-11-02 12:22:04.896 +00:00 [DBG] Endpoint 'rest.Controllers.HomeController.GetPersonById (rest)' with route pattern 'person/{id:int}' is valid for the request path '/person/2'
+2023-11-02 12:22:04.896 +00:00 [DBG] Request matched endpoint 'rest.Controllers.HomeController.GetPersonById (rest)'
+2023-11-02 12:22:04.897 +00:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2023-11-02 12:22:04.897 +00:00 [INF] Executing endpoint 'rest.Controllers.HomeController.GetPersonById (rest)'
+2023-11-02 12:22:04.913 +00:00 [INF] Route matched with {action = "GetPersonById", controller = "Home"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[rest.Models.Person]] GetPersonById(Int32) on controller rest.Controllers.HomeController (rest).
+2023-11-02 12:22:04.913 +00:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2023-11-02 12:22:04.913 +00:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2023-11-02 12:22:04.913 +00:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2023-11-02 12:22:04.913 +00:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2023-11-02 12:22:04.913 +00:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2023-11-02 12:22:04.913 +00:00 [DBG] Executing controller factory for controller rest.Controllers.HomeController (rest)
+2023-11-02 12:22:04.914 +00:00 [DBG] Executed controller factory for controller rest.Controllers.HomeController (rest)
+2023-11-02 12:22:04.921 +00:00 [DBG] Attempting to bind parameter 'id' of type 'System.Int32' ...
+2023-11-02 12:22:04.922 +00:00 [DBG] Attempting to bind parameter 'id' of type 'System.Int32' using the name 'id' in request data ...
+2023-11-02 12:22:04.924 +00:00 [DBG] Done attempting to bind parameter 'id' of type 'System.Int32'.
+2023-11-02 12:22:04.924 +00:00 [DBG] Done attempting to bind parameter 'id' of type 'System.Int32'.
+2023-11-02 12:22:04.924 +00:00 [DBG] Attempting to validate the bound parameter 'id' of type 'System.Int32' ...
+2023-11-02 12:22:04.925 +00:00 [DBG] Done attempting to validate the bound parameter 'id' of type 'System.Int32'.
+2023-11-02 12:22:04.929 +00:00 [INF] Get person by Id!
+2023-11-02 12:22:04.929 +00:00 [DBG] List of registered output formatters, in the following order: ["Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter","Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter"]
+2023-11-02 12:22:04.929 +00:00 [DBG] Attempting to select an output formatter based on Accept header '["text/plain"]'.
+2023-11-02 12:22:04.929 +00:00 [DBG] Could not find an output formatter based on content negotiation. Accepted types were (["text/plain"])
+2023-11-02 12:22:04.929 +00:00 [DBG] Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2023-11-02 12:22:04.929 +00:00 [DBG] Attempting to select the first formatter in the output formatters list which can write the result.
+2023-11-02 12:22:04.929 +00:00 [DBG] Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2023-11-02 12:22:04.929 +00:00 [INF] Executing OkObjectResult, writing value of type 'rest.Models.Person'.
+2023-11-02 12:22:04.930 +00:00 [INF] Executed action rest.Controllers.HomeController.GetPersonById (rest) in 16.4149ms
+2023-11-02 12:22:04.930 +00:00 [INF] Executed endpoint 'rest.Controllers.HomeController.GetPersonById (rest)'
+2023-11-02 12:22:04.930 +00:00 [DBG] Connection id "0HMURJNPLUTTK" completed keep alive response.
+2023-11-02 12:22:04.930 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5162/person/2 - - - 200 - application/json;+charset=utf-8 34.5276ms
+2023-11-02 12:22:40.383 +00:00 [DBG] Connection id "0HMURJNPLUTTK" received FIN.
+2023-11-02 12:22:40.383 +00:00 [DBG] Connection id "0HMURJNPLUTTK" disconnecting.
+2023-11-02 12:22:40.383 +00:00 [DBG] Connection id "0HMURJNPLUTTK" stopped.
+2023-11-02 12:22:40.383 +00:00 [DBG] Connection id "0HMURJNPLUTTK" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-11-02 12:31:12.795 +00:00 [DBG] Connection id "0HMURJNPLUTTL" accepted.
+2023-11-02 12:31:12.795 +00:00 [DBG] Connection id "0HMURJNPLUTTL" started.
+2023-11-02 12:31:12.796 +00:00 [DBG] Connection id "0HMURJNPLUTTM" accepted.
+2023-11-02 12:31:12.796 +00:00 [DBG] Connection id "0HMURJNPLUTTM" started.
+2023-11-02 12:31:12.800 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5162/swagger/index.html - -
+2023-11-02 12:31:12.800 +00:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2023-11-02 12:31:12.800 +00:00 [DBG] Request did not match any endpoints
+2023-11-02 12:31:12.812 +00:00 [DBG] Connection id "0HMURJNPLUTTL" completed keep alive response.
+2023-11-02 12:31:12.812 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5162/swagger/index.html - - - 200 - text/html;charset=utf-8 11.8774ms
+2023-11-02 12:31:13.167 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5162/swagger/v1/swagger.json - -
+2023-11-02 12:31:13.168 +00:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2023-11-02 12:31:13.168 +00:00 [DBG] Request did not match any endpoints
+2023-11-02 12:31:13.180 +00:00 [DBG] Connection id "0HMURJNPLUTTL" completed keep alive response.
+2023-11-02 12:31:13.180 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5162/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 13.4552ms
+2023-11-02 12:31:13.228 +00:00 [DBG] Connection id "0HMURJNPLUTTN" accepted.
+2023-11-02 12:31:13.229 +00:00 [DBG] Connection id "0HMURJNPLUTTN" started.
+2023-11-02 12:31:13.229 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5162/swagger/index.html - -
+2023-11-02 12:31:13.229 +00:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2023-11-02 12:31:13.229 +00:00 [DBG] Request did not match any endpoints
+2023-11-02 12:31:13.230 +00:00 [DBG] Connection id "0HMURJNPLUTTN" completed keep alive response.
+2023-11-02 12:31:13.230 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5162/swagger/index.html - - - 200 - text/html;charset=utf-8 0.8483ms
+2023-11-02 12:31:21.107 +00:00 [DBG] Connection id "0HMURJNPLUTTM" received FIN.
+2023-11-02 12:31:21.107 +00:00 [DBG] Connection id "0HMURJNPLUTTN" received FIN.
+2023-11-02 12:31:21.107 +00:00 [DBG] Connection id "0HMURJNPLUTTL" received FIN.
+2023-11-02 12:31:21.107 +00:00 [DBG] Connection id "0HMURJNPLUTTM" sending FIN because: "The client closed the connection."
+2023-11-02 12:31:21.108 +00:00 [DBG] Connection id "0HMURJNPLUTTN" sending FIN because: "The client closed the connection."
+2023-11-02 12:31:21.108 +00:00 [DBG] Connection id "0HMURJNPLUTTN" disconnecting.
+2023-11-02 12:31:21.108 +00:00 [DBG] Connection id "0HMURJNPLUTTL" disconnecting.
+2023-11-02 12:31:21.108 +00:00 [DBG] Connection id "0HMURJNPLUTTM" disconnecting.
+2023-11-02 12:31:21.108 +00:00 [DBG] Connection id "0HMURJNPLUTTL" stopped.
+2023-11-02 12:31:21.108 +00:00 [DBG] Connection id "0HMURJNPLUTTM" stopped.
+2023-11-02 12:31:21.108 +00:00 [DBG] Connection id "0HMURJNPLUTTN" stopped.
+2023-11-02 12:31:21.108 +00:00 [DBG] Connection id "0HMURJNPLUTTL" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-11-02 12:31:24.629 +00:00 [INF] Application is shutting down...
+2023-11-02 12:31:24.631 +00:00 [DBG] Hosting stopping
+2023-11-02 12:31:24.643 +00:00 [DBG] Hosting stopped
+2023-11-02 12:31:41.090 +00:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2023-11-02 12:31:41.165 +00:00 [DBG] Hosting starting
+2023-11-02 12:31:41.221 +00:00 [INF] Now listening on: http://localhost:5162
+2023-11-02 12:31:41.222 +00:00 [DBG] Loaded hosting startup assembly rest
+2023-11-02 12:31:41.222 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-11-02 12:31:41.223 +00:00 [INF] Hosting environment: Development
+2023-11-02 12:31:41.223 +00:00 [INF] Content root path: D:\CSharp\Projects\RestAPI\rest
+2023-11-02 12:31:41.223 +00:00 [DBG] Hosting started
+2023-11-02 12:31:41.672 +00:00 [DBG] Connection id "0HMURJULEHCQR" received FIN.
+2023-11-02 12:31:41.678 +00:00 [DBG] Connection id "0HMURJULEHCQR" accepted.
+2023-11-02 12:31:41.679 +00:00 [DBG] Connection id "0HMURJULEHCQR" started.
+2023-11-02 12:31:41.691 +00:00 [DBG] Connection id "0HMURJULEHCQR" sending FIN because: "The client closed the connection."
+2023-11-02 12:31:41.693 +00:00 [DBG] Connection id "0HMURJULEHCQR" disconnecting.
+2023-11-02 12:31:41.698 +00:00 [DBG] Connection id "0HMURJULEHCQR" stopped.
+2023-11-02 12:31:41.854 +00:00 [DBG] Connection id "0HMURJULEHCQS" accepted.
+2023-11-02 12:31:41.854 +00:00 [DBG] Connection id "0HMURJULEHCQS" started.
+2023-11-02 12:31:41.855 +00:00 [DBG] Connection id "0HMURJULEHCQT" accepted.
+2023-11-02 12:31:41.855 +00:00 [DBG] Connection id "0HMURJULEHCQT" started.
+2023-11-02 12:31:41.948 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5162/swagger/index.html - -
+2023-11-02 12:31:41.951 +00:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2023-11-02 12:31:41.993 +00:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2023-11-02 12:31:41.994 +00:00 [DBG] Request did not match any endpoints
+2023-11-02 12:31:42.148 +00:00 [DBG] Connection id "0HMURJULEHCQS" completed keep alive response.
+2023-11-02 12:31:42.150 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5162/swagger/index.html - - - 200 - text/html;charset=utf-8 208.4270ms
+2023-11-02 12:31:42.408 +00:00 [DBG] Connection id "0HMURJULEHCQU" accepted.
+2023-11-02 12:31:42.409 +00:00 [DBG] Connection id "0HMURJULEHCQU" started.
+2023-11-02 12:31:42.410 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5162/swagger/index.html - -
+2023-11-02 12:31:42.411 +00:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2023-11-02 12:31:42.411 +00:00 [DBG] Request did not match any endpoints
+2023-11-02 12:31:42.415 +00:00 [DBG] Connection id "0HMURJULEHCQU" completed keep alive response.
+2023-11-02 12:31:42.416 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5162/swagger/index.html - - - 200 - text/html;charset=utf-8 5.8740ms
+2023-11-02 12:31:42.508 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5162/swagger/v1/swagger.json - -
+2023-11-02 12:31:42.508 +00:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2023-11-02 12:31:42.508 +00:00 [DBG] Request did not match any endpoints
+2023-11-02 12:31:42.663 +00:00 [DBG] Connection id "0HMURJULEHCQS" completed keep alive response.
+2023-11-02 12:31:42.663 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5162/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 154.8955ms
+2023-11-02 12:31:46.167 +00:00 [DBG] Connection id "0HMURJULEHCQU" received FIN.
+2023-11-02 12:31:46.167 +00:00 [DBG] Connection id "0HMURJULEHCQT" received FIN.
+2023-11-02 12:31:46.167 +00:00 [DBG] Connection id "0HMURJULEHCQS" received FIN.
+2023-11-02 12:31:46.168 +00:00 [DBG] Connection id "0HMURJULEHCQT" sending FIN because: "The client closed the connection."
+2023-11-02 12:31:46.168 +00:00 [DBG] Connection id "0HMURJULEHCQU" sending FIN because: "The client closed the connection."
+2023-11-02 12:31:46.168 +00:00 [DBG] Connection id "0HMURJULEHCQU" disconnecting.
+2023-11-02 12:31:46.168 +00:00 [DBG] Connection id "0HMURJULEHCQT" disconnecting.
+2023-11-02 12:31:46.168 +00:00 [DBG] Connection id "0HMURJULEHCQS" sending FIN because: "The client closed the connection."
+2023-11-02 12:31:46.169 +00:00 [DBG] Connection id "0HMURJULEHCQS" disconnecting.
+2023-11-02 12:31:46.172 +00:00 [DBG] Connection id "0HMURJULEHCQU" stopped.
+2023-11-02 12:31:46.172 +00:00 [DBG] Connection id "0HMURJULEHCQS" stopped.
+2023-11-02 12:31:46.172 +00:00 [DBG] Connection id "0HMURJULEHCQT" stopped.
+2023-11-02 12:32:23.644 +00:00 [DBG] Connection id "0HMURJULEHCQV" accepted.
+2023-11-02 12:32:23.644 +00:00 [DBG] Connection id "0HMURJULEHCQV" started.
+2023-11-02 12:32:23.644 +00:00 [DBG] Connection id "0HMURJULEHCR0" accepted.
+2023-11-02 12:32:23.645 +00:00 [DBG] Connection id "0HMURJULEHCR0" started.
+2023-11-02 12:32:23.646 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5162/swagger/index.html - -
+2023-11-02 12:32:23.646 +00:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2023-11-02 12:32:23.646 +00:00 [DBG] Request did not match any endpoints
+2023-11-02 12:32:23.647 +00:00 [DBG] Connection id "0HMURJULEHCQV" completed keep alive response.
+2023-11-02 12:32:23.647 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5162/swagger/index.html - - - 200 - text/html;charset=utf-8 0.8372ms
+2023-11-02 12:32:23.938 +00:00 [DBG] Connection id "0HMURJULEHCR1" accepted.
+2023-11-02 12:32:23.938 +00:00 [DBG] Connection id "0HMURJULEHCR1" started.
+2023-11-02 12:32:23.938 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5162/swagger/index.html - -
+2023-11-02 12:32:23.938 +00:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2023-11-02 12:32:23.938 +00:00 [DBG] Request did not match any endpoints
+2023-11-02 12:32:23.938 +00:00 [DBG] Connection id "0HMURJULEHCR1" completed keep alive response.
+2023-11-02 12:32:23.938 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5162/swagger/index.html - - - 200 - text/html;charset=utf-8 0.5338ms
+2023-11-02 12:32:24.022 +00:00 [INF] Request starting HTTP/1.1 GET http://localhost:5162/swagger/v1/swagger.json - -
+2023-11-02 12:32:24.022 +00:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2023-11-02 12:32:24.022 +00:00 [DBG] Request did not match any endpoints
+2023-11-02 12:32:24.030 +00:00 [DBG] Connection id "0HMURJULEHCQV" completed keep alive response.
+2023-11-02 12:32:24.030 +00:00 [INF] Request finished HTTP/1.1 GET http://localhost:5162/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 7.9612ms
+2023-11-02 12:32:26.231 +00:00 [DBG] Connection id "0HMURJULEHCR1" received FIN.
+2023-11-02 12:32:26.232 +00:00 [DBG] Connection id "0HMURJULEHCR1" sending FIN because: "The client closed the connection."
+2023-11-02 12:32:26.232 +00:00 [DBG] Connection id "0HMURJULEHCR0" received FIN.
+2023-11-02 12:32:26.232 +00:00 [DBG] Connection id "0HMURJULEHCR0" disconnecting.
+2023-11-02 12:32:26.232 +00:00 [DBG] Connection id "0HMURJULEHCR0" stopped.
+2023-11-02 12:32:26.232 +00:00 [DBG] Connection id "0HMURJULEHCR1" disconnecting.
+2023-11-02 12:32:26.232 +00:00 [DBG] Connection id "0HMURJULEHCR1" stopped.
+2023-11-02 12:32:26.232 +00:00 [DBG] Connection id "0HMURJULEHCR0" sending FIN because: "The Socket transport's send loop completed gracefully."
+2023-11-02 12:32:26.232 +00:00 [DBG] Connection id "0HMURJULEHCQV" received FIN.
+2023-11-02 12:32:26.232 +00:00 [DBG] Connection id "0HMURJULEHCQV" disconnecting.
+2023-11-02 12:32:26.232 +00:00 [DBG] Connection id "0HMURJULEHCQV" sending FIN because: "The client closed the connection."
+2023-11-02 12:32:26.246 +00:00 [DBG] Connection id "0HMURJULEHCQV" stopped.
+2023-11-02 12:55:12.777 +00:00 [INF] Application is shutting down...
+2023-11-02 12:55:12.779 +00:00 [DBG] Hosting stopping
+2023-11-02 12:55:12.790 +00:00 [DBG] Hosting stopped
